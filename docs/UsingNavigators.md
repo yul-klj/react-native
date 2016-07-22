@@ -19,7 +19,7 @@ React Native has several built-in navigation components, but for your first app 
 
 ### Working with Scenes
 
-At this point you should feel comfortable rendering all sorts of components in your app, be it a simple `View` with `Text` inside, or a `ScrollView` with a list of `Image`s. Together, these components make up a scene (another word for screen) in your app.
+At this point you should feel comfortable rendering all sorts of components in your app, be it a simple `View` with `Text` inside, or a `ScrollView` with a list of `Image`. Together, these components make up a scene (another word for screen) in your app.
 
 A scene is nothing other than a React component that is typically rendered full screen. This is in contrast to a `Text`, an `Image`, or even a custom `SpinningBeachball` component that is meant to be rendered as part of a screen. You may have already used one without realizing it - the ["HelloWorldApp"](docs/tutorial.html), the ["FlexDirectionBasics"](docs/flexbox.html), and the ["ListViewBasics"](docs/using-a-listview.html) components covered earlier in the tutorial are all examples of scenes.
 
